@@ -1,0 +1,44 @@
+.jumbotron {
+	background-color: #aa76b8;
+	font-family: 'Dosis', sans-serif;
+}
+
+hr {
+    height: 10px;
+    border: 0;
+    box-shadow: 0 10px 10px -10px #8c8b8b inset;
+}
+
+h5 {
+    font-weight: bold;
+}
+
+.main-area {
+    background-color: #7FFFD4;
+}
+
+h3 {
+    font-weight: bold;
+}
+
+form, h1, h3, h4{
+	text-align: center;
+	font-family: 'Dosis', sans-serif;
+}
+
+select {
+    height: 30px;
+    border-radius: 5px;
+}
+
+#size {
+    width: 100% !important;
+}
+
+.input {
+    width: 60% !important;
+}
+
+.container {
+    width: 100% !important;
+}
